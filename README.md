@@ -7,7 +7,7 @@ Run this bot in heroku
 
 ADD MY BOT IN YOUR SERVER DISCORD 
 
-https://discord.com/oauth2/authorize?client_id=972903053940375603&permissions=2205281600&scope=bot%20identify%20guilds%20applications.commands&redirect_url=https://github.com/epikziom38/Discord-MusicBot/api/callback&response_type=code
+[![ADD](https://discord.com/oauth2/authorize?client_id=972903053940375603&permissions=2205281600&scope=bot%20identify%20guilds%20applications.commands&redirect_url=https://github.com/epikziom38/Discord-MusicBot/api/callback&response_type=code)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 support discord https://discord.gg/t4V68fgQYx
 
